@@ -1,0 +1,1 @@
+"""Stateful mock entity store."""
